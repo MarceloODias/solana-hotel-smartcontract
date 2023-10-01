@@ -1,0 +1,26 @@
+{
+  "program": {
+    "candyMachine": "2Aeku6uBaJ4aNUxqYyzSmBJsLwTRPXADy4DWzqeQ2hwH",
+    "candyGuard": "",
+    "candyMachineCreator": "3fVZiivn5U5RLN1SpQgynsW6YGUwcE69N77J6FDSDv9B",
+    "collectionMint": "7b4KvKEjweRRr6zXf2runAhMxb6btW1VBjHBBSuj6ifb"
+  },
+  "items": {
+    "-1": {
+      "name": "Hotel e Apartamentos",
+      "image_hash": "03d87f9a0d95661c82422f2a3522fbc687e96be125bca7eb57529ed39598b4bb",
+      "image_link": "https://arweave.net/COmN9pYQlvB6Qp0sHtmD2s-3xCgsdl3AAVOVTtcmPec?ext=png",
+      "metadata_hash": "967e76c9e8e15d0639669725c9372b93901cc84b9ac49aa5432a8c5f53506d6d",
+      "metadata_link": "https://arweave.net/1QWCIslWFsiDREd02GJ9S09TVuj8NOiPcFulqX17D64",
+      "onChain": true
+    },
+    "0": {
+      "name": "Apartamento 107",
+      "image_hash": "03d87f9a0d95661c82422f2a3522fbc687e96be125bca7eb57529ed39598b4bb",
+      "image_link": "https://arweave.net/9GVWBy1zmUeHVTd2Lm93L6e4uWKQfvZ3q33o6hS3fUg?ext=png",
+      "metadata_hash": "fcadfc00fa28619119fd52433ab10976e4a4f6d14101583a393553530413800d",
+      "metadata_link": "https://arweave.net/9e9EUsSEsBOQL23pKic61ByL2zY15h9BKijMYEYmFe0",
+      "onChain": true
+    }
+  }
+}

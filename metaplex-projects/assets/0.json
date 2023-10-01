@@ -1,0 +1,32 @@
+{
+    "name": "Apartamento 107",
+    "symbol": "HTAP",
+    "description": "Apartamento na praia para locação por temporada.",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Condomínio",
+            "value": "Mar Azul"
+        },
+        {
+            "trait_type": "Andar",
+            "value": "10"
+        },
+        {
+            "trait_type": "Número",
+            "value": "107"
+        },
+        {
+            "trait_type": "Quartos",
+            "value": "2"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
